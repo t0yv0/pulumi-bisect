@@ -1,6 +1,6 @@
 # pulumi-bisect
 
-Searching for first failing Pulumi release.
+Find the first failing Pulumi release.
 
 Write a script `bad.sh` that returns exit code 1 if something is not right. Then run:
 
